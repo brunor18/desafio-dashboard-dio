@@ -14,10 +14,10 @@ O arquivo está organizado em duas abas principais:
    **Gráficos Integrados:** 
     Gráfico de Pizza exibindo o market share de faturamento por Canal de Venda e um gráfico de barras Indicativo mostrando a performance regional de vendas
 
-
-   **Dados:** A base de dados contem 150 registros, os atributos são: ID do Pedido, Data da Venda, Canal (E-commerce, Loja Física, etc), Região, Modelo do Ventilador, Preço, Quantidade, Faturamento, Custo e Margem Operacional
-
-**AVISO:** Todos os dados usados foram criados por IA e portanto, são simulados
+## Dados
+   A base de dados contem 150 registros, os atributos são: ID do Pedido, Data da Venda, Canal (E-commerce, Loja Física, etc), Região, Modelo do Ventilador, Preço, Quantidade, Faturamento, Custo e Margem Operacional
+    
+   **AVISO:** Todos os dados usados foram criados por IA e portanto, são simulados
   
 
 ## Tecnologias e Técnicas Utilizadas
